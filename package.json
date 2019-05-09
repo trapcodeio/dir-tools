@@ -1,0 +1,12 @@
+{
+  "name": "dir-tools",
+  "version": "0.0.0",
+  "description": "Manipulate Files in different ways...",
+  "main": "index.js",
+  "author": "trapcode",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "chalk": "^2.4.2"
+  }
+}
